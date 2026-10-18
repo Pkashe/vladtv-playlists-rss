@@ -4,6 +4,7 @@ import json
 import os
 from datetime import datetime, timezone
 from email.utils import format_datetime
+from html import escape
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import urlopen
@@ -14,6 +15,8 @@ STATE = ROOT / 'data' / 'playlists.json'
 FEED = ROOT / 'docs' / 'rss.xml'
 API_ROOT = 'https://www.googleapis.com/youtube/v3/'
 MAX_ENTRIES = 75
+MEDIA_NS = 'http://search.yahoo.com/mrss/'
+ET.register_namespace('media', MEDIA_NS)
 
 
 def get_json(endpoint, **params):
@@ -44,6 +47,7 @@ def fetch_playlists():
                     'title': snippet.get('title') or 'Untitled playlist',
                     'published': snippet['publishedAt'],
                     'description': snippet.get('description', '')[:900],
+                    'thumbnail': next((snippet.get('thumbnails', {}).get(size, {}).get('url', '') for size in ('maxres', 'standard', 'high', 'medium', 'default') if snippet.get('thumbnails', {}).get(size, {}).get('url')), ''),
                     'url': 'https://www.youtube.com/playlist?list=' + pid,
                 }
         token = page.get('nextPageToken')
@@ -70,6 +74,13 @@ def main():
         # Bootstrap with recent playlists so Feedly can be tested immediately.
         seen = set(fetched.keys())
         entries = sorted(fetched.values(), key=lambda x: x['published'], reverse=True)[:30]
+    # Refresh titles and thumbnail URLs for existing entries without changing GUIDs or publish dates.
+    for item in entries:
+        current = fetched.get(item['id'])
+        if current:
+            item['title'] = current['title']
+            item['description'] = current['description']
+            item['thumbnail'] = current['thumbnail']
     existing_entry_ids = {item['id'] for item in entries}
     for pid, playlist in fetched.items():
         if pid not in seen and pid not in existing_entry_ids:
@@ -94,7 +105,14 @@ def main():
         ET.SubElement(entry, 'link').text = playlist['url']
         ET.SubElement(entry, 'guid', {'isPermaLink': 'false'}).text = 'youtube-playlist:' + playlist['id']
         ET.SubElement(entry, 'pubDate').text = format_datetime(utc_date(playlist['published']))
-        ET.SubElement(entry, 'description').text = playlist.get('description', '') or playlist['title']
+        details = playlist.get('description', '') or playlist['title']
+        thumbnail = playlist.get('thumbnail', '')
+        if thumbnail:
+            ET.SubElement(entry, f'{{{MEDIA_NS}}}thumbnail', {'url': thumbnail})
+            # Feedly commonly extracts the first image from HTML in RSS descriptions.
+            ET.SubElement(entry, 'description').text = f'<p><img src="{escape(thumbnail, quote=True)}" alt="{escape(playlist["title"], quote=True)}" /></p><p>{escape(details)}</p>'
+        else:
+            ET.SubElement(entry, 'description').text = details
     ET.indent(rss, space='  ')
     FEED.parent.mkdir(parents=True, exist_ok=True)
     FEED.write_bytes(ET.tostring(rss, encoding='utf-8', xml_declaration=True))
