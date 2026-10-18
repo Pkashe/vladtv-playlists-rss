@@ -1,220 +1,250 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>VladTV — New Playlists</title>
     <link>https://www.youtube.com/@vladtv/playlists</link>
     <description>One RSS entry per newly discovered public VladTV playlist; individual video uploads excluded.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:42:47 +0000</lastBuildDate>
     <item>
       <title>Memo600 - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLQyfSM34zJto</link>
       <guid isPermaLink="false">youtube-playlist:PLQyfSM34zJto</guid>
       <pubDate>Fri, 16 Oct 2026 21:22:10 +0000</pubDate>
-      <description>Memo600 - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/img/no_thumbnail.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/img/no_thumbnail.jpg" alt="Memo600 - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Memo600 - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vlad Tenev - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLaU3JRVCyV9I</link>
       <guid isPermaLink="false">youtube-playlist:PLaU3JRVCyV9I</guid>
       <pubDate>Fri, 16 Oct 2026 15:33:40 +0000</pubDate>
-      <description>Vlad Tenev - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/8YYmtZYQ0Aw/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/8YYmtZYQ0Aw/maxresdefault.jpg" alt="Vlad Tenev - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Vlad Tenev - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cody Alford - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLSZSN2mfuF_k</link>
       <guid isPermaLink="false">youtube-playlist:PLSZSN2mfuF_k</guid>
       <pubDate>Fri, 16 Oct 2026 14:07:06 +0000</pubDate>
-      <description>Cody Alford - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/ORHsx5EqZJM/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/ORHsx5EqZJM/maxresdefault.jpg" alt="Cody Alford - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Cody Alford - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vlad Tenev - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLIjc6cIpbnPM</link>
       <guid isPermaLink="false">youtube-playlist:PLIjc6cIpbnPM</guid>
       <pubDate>Thu, 15 Oct 2026 18:23:10 +0000</pubDate>
-      <description>Vlad Tenev - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/f1sny7UVvDw/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/f1sny7UVvDw/maxresdefault.jpg" alt="Vlad Tenev - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Vlad Tenev - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poetik Flakko - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLeP7Wk4nrsZU</link>
       <guid isPermaLink="false">youtube-playlist:PLeP7Wk4nrsZU</guid>
       <pubDate>Thu, 15 Oct 2026 16:17:51 +0000</pubDate>
-      <description>Poetik Flakko - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/zgOl5iOhwsE/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/zgOl5iOhwsE/maxresdefault.jpg" alt="Poetik Flakko - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Poetik Flakko - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vincent Marino - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLIqvituUcGXY</link>
       <guid isPermaLink="false">youtube-playlist:PLIqvituUcGXY</guid>
       <pubDate>Wed, 14 Oct 2026 20:39:14 +0000</pubDate>
-      <description>Vincent Marino - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/gKnZIQpWXOc/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/gKnZIQpWXOc/maxresdefault.jpg" alt="Vincent Marino - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Vincent Marino - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vincent Marino - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLfWRjTK_y74o</link>
       <guid isPermaLink="false">youtube-playlist:PLfWRjTK_y74o</guid>
       <pubDate>Tue, 13 Oct 2026 19:04:16 +0000</pubDate>
-      <description>Vincent Marino - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/gKnZIQpWXOc/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/gKnZIQpWXOc/maxresdefault.jpg" alt="Vincent Marino - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Vincent Marino - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cody Alford October 26</title>
       <link>https://www.youtube.com/playlist?list=PLfmq0Yqw02B0</link>
       <guid isPermaLink="false">youtube-playlist:PLfmq0Yqw02B0</guid>
       <pubDate>Tue, 13 Oct 2026 14:33:43 +0000</pubDate>
-      <description>Cody Alford October 26</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/PgiGoDJvdp0/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/PgiGoDJvdp0/maxresdefault.jpg" alt="Cody Alford October 26" /&gt;&lt;/p&gt;&lt;p&gt;Cody Alford October 26&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nicholas Irving - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLHUQQIhNMd0I</link>
       <guid isPermaLink="false">youtube-playlist:PLHUQQIhNMd0I</guid>
       <pubDate>Fri, 09 Oct 2026 14:39:49 +0000</pubDate>
-      <description>Nicholas Irving - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/t1OxW3QAMTA/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/t1OxW3QAMTA/maxresdefault.jpg" alt="Nicholas Irving - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Nicholas Irving - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nicholas Irving - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLODR_WPoO2jY</link>
       <guid isPermaLink="false">youtube-playlist:PLODR_WPoO2jY</guid>
       <pubDate>Fri, 09 Oct 2026 14:20:30 +0000</pubDate>
-      <description>Nicholas Irving - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/4kZ5cW6wXtA/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/4kZ5cW6wXtA/maxresdefault.jpg" alt="Nicholas Irving - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Nicholas Irving - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dale Comstock - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLMc-GqKy4_9M</link>
       <guid isPermaLink="false">youtube-playlist:PLMc-GqKy4_9M</guid>
       <pubDate>Mon, 05 Oct 2026 21:27:44 +0000</pubDate>
-      <description>Dale Comstock - October 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/U21AbA_cZII/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/U21AbA_cZII/maxresdefault.jpg" alt="Dale Comstock - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Dale Comstock - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Charleston White - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLJX_6JgpQjOc</link>
       <guid isPermaLink="false">youtube-playlist:PLJX_6JgpQjOc</guid>
       <pubDate>Wed, 30 Sep 2026 21:44:14 +0000</pubDate>
-      <description>Charleston White - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/mwT-29KKneg/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/mwT-29KKneg/maxresdefault.jpg" alt="Charleston White - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Charleston White - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rex Holloway - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLRvdKwM9Befs</link>
       <guid isPermaLink="false">youtube-playlist:PLRvdKwM9Befs</guid>
       <pubDate>Mon, 28 Sep 2026 21:09:13 +0000</pubDate>
-      <description>Rex Holloway - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/ngv3shqEXoM/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/ngv3shqEXoM/maxresdefault.jpg" alt="Rex Holloway - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Rex Holloway - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ramon "Mundo" Mendoza  - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLOvfR40AUEq4</link>
       <guid isPermaLink="false">youtube-playlist:PLOvfR40AUEq4</guid>
       <pubDate>Fri, 25 Sep 2026 19:10:02 +0000</pubDate>
-      <description>Ramon "Mundo" Mendoza  - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/ULWuJC3gHjY/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/ULWuJC3gHjY/maxresdefault.jpg" alt="Ramon &amp;quot;Mundo&amp;quot; Mendoza  - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Ramon &amp;quot;Mundo&amp;quot; Mendoza  - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ramon "Mundo" Mendoza - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLBAsBga_yn2U</link>
       <guid isPermaLink="false">youtube-playlist:PLBAsBga_yn2U</guid>
       <pubDate>Fri, 25 Sep 2026 19:04:41 +0000</pubDate>
-      <description>Ramon "Mundo" Mendoza - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/ULWuJC3gHjY/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/ULWuJC3gHjY/maxresdefault.jpg" alt="Ramon &amp;quot;Mundo&amp;quot; Mendoza - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Ramon &amp;quot;Mundo&amp;quot; Mendoza - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>TS Madison - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLUr7u1MHnPS4</link>
       <guid isPermaLink="false">youtube-playlist:PLUr7u1MHnPS4</guid>
       <pubDate>Fri, 25 Sep 2026 14:27:35 +0000</pubDate>
-      <description>TS Madison - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/s5i3shO8ImI/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/s5i3shO8ImI/maxresdefault.jpg" alt="TS Madison - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;TS Madison - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Royce White - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLZ3sBtScSyEk</link>
       <guid isPermaLink="false">youtube-playlist:PLZ3sBtScSyEk</guid>
       <pubDate>Wed, 23 Sep 2026 20:20:48 +0000</pubDate>
-      <description>Royce White - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/FBS_rJZ2S0E/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/FBS_rJZ2S0E/maxresdefault.jpg" alt="Royce White - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Royce White - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jack Burkman x Jacob Wohl - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLWh6gjylHFWQ</link>
       <guid isPermaLink="false">youtube-playlist:PLWh6gjylHFWQ</guid>
       <pubDate>Tue, 22 Sep 2026 16:15:07 +0000</pubDate>
-      <description>Jack Burkman x Jacob Wohl - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/kP-lTrORtPY/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/kP-lTrORtPY/maxresdefault.jpg" alt="Jack Burkman x Jacob Wohl - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Jack Burkman x Jacob Wohl - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nicholas Irving x Robert O'Neill - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLaJbovQfmbcI</link>
       <guid isPermaLink="false">youtube-playlist:PLaJbovQfmbcI</guid>
       <pubDate>Fri, 18 Sep 2026 21:38:20 +0000</pubDate>
-      <description>Nicholas Irving x Robert O'Neill - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/2-Bi3FMDiz4/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/2-Bi3FMDiz4/maxresdefault.jpg" alt="Nicholas Irving x Robert O&amp;#x27;Neill - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Nicholas Irving x Robert O&amp;#x27;Neill - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dirt Rocc - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLcapsLuBpkdA</link>
       <guid isPermaLink="false">youtube-playlist:PLcapsLuBpkdA</guid>
       <pubDate>Fri, 18 Sep 2026 20:34:30 +0000</pubDate>
-      <description>Dirt Rocc - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/uJOipbpuGr8/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/uJOipbpuGr8/maxresdefault.jpg" alt="Dirt Rocc - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Dirt Rocc - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>TK Kirkland - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLGvXoXcrydIM</link>
       <guid isPermaLink="false">youtube-playlist:PLGvXoXcrydIM</guid>
       <pubDate>Wed, 16 Sep 2026 21:47:40 +0000</pubDate>
-      <description>TK Kirkland - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/rRLJVBMJt3I/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/rRLJVBMJt3I/maxresdefault.jpg" alt="TK Kirkland - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;TK Kirkland - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trap Lore Ross - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLQRFHDJPb1gQ</link>
       <guid isPermaLink="false">youtube-playlist:PLQRFHDJPb1gQ</guid>
       <pubDate>Tue, 15 Sep 2026 18:28:16 +0000</pubDate>
-      <description>Trap Lore Ross - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/fgzkOWzO-eY/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/fgzkOWzO-eY/maxresdefault.jpg" alt="Trap Lore Ross - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Trap Lore Ross - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trap Lore Ross - September 26</title>
       <link>https://www.youtube.com/playlist?list=PLTfUBNXnrqLc</link>
       <guid isPermaLink="false">youtube-playlist:PLTfUBNXnrqLc</guid>
       <pubDate>Sun, 13 Sep 2026 19:58:10 +0000</pubDate>
-      <description>Trap Lore Ross - September 26</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/4eDHoa7ZUAY/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/4eDHoa7ZUAY/maxresdefault.jpg" alt="Trap Lore Ross - September 26" /&gt;&lt;/p&gt;&lt;p&gt;Trap Lore Ross - September 26&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nicholas Irving - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLENAKL4wfU_k</link>
       <guid isPermaLink="false">youtube-playlist:PLENAKL4wfU_k</guid>
       <pubDate>Fri, 11 Sep 2026 19:36:46 +0000</pubDate>
-      <description>Nicholas Irving - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/4D3wB1ZOXlA/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/4D3wB1ZOXlA/maxresdefault.jpg" alt="Nicholas Irving - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Nicholas Irving - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vlad Responds</title>
       <link>https://www.youtube.com/playlist?list=PLDDjrmbxycic</link>
       <guid isPermaLink="false">youtube-playlist:PLDDjrmbxycic</guid>
       <pubDate>Thu, 10 Sep 2026 20:38:01 +0000</pubDate>
-      <description>Vlad Responds</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/nft59PPr-Fw/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/nft59PPr-Fw/maxresdefault.jpg" alt="Vlad Responds" /&gt;&lt;/p&gt;&lt;p&gt;Vlad Responds&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mario Sanchez - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLf1QikhgBGwQ</link>
       <guid isPermaLink="false">youtube-playlist:PLf1QikhgBGwQ</guid>
       <pubDate>Wed, 09 Sep 2026 19:51:22 +0000</pubDate>
-      <description>Mario Sanchez - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/-pWadYhoSkc/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/-pWadYhoSkc/maxresdefault.jpg" alt="Mario Sanchez - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Mario Sanchez - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Max B - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLU7F5JOEMtmk</link>
       <guid isPermaLink="false">youtube-playlist:PLU7F5JOEMtmk</guid>
       <pubDate>Wed, 09 Sep 2026 19:41:58 +0000</pubDate>
-      <description>Max B - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/FoBBj-6j544/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/FoBBj-6j544/maxresdefault.jpg" alt="Max B - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Max B - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Judge Mathis - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLFada2ldUYjM</link>
       <guid isPermaLink="false">youtube-playlist:PLFada2ldUYjM</guid>
       <pubDate>Wed, 09 Sep 2026 19:02:13 +0000</pubDate>
-      <description>Judge Mathis - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/EfhDHL5_UnU/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/EfhDHL5_UnU/maxresdefault.jpg" alt="Judge Mathis - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Judge Mathis - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bradford Cohen - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLTdXPFZ5wWWE</link>
       <guid isPermaLink="false">youtube-playlist:PLTdXPFZ5wWWE</guid>
       <pubDate>Wed, 09 Sep 2026 15:57:46 +0000</pubDate>
-      <description>Bradford Cohen - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/K7__iCx2ghE/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/K7__iCx2ghE/maxresdefault.jpg" alt="Bradford Cohen - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Bradford Cohen - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bradford Cohen - September 2026</title>
       <link>https://www.youtube.com/playlist?list=PLdPMKRvj2thY</link>
       <guid isPermaLink="false">youtube-playlist:PLdPMKRvj2thY</guid>
       <pubDate>Mon, 07 Sep 2026 22:25:55 +0000</pubDate>
-      <description>Bradford Cohen - September 2026</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/2rKwQ07Tr-A/maxresdefault.jpg" />
+      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/2rKwQ07Tr-A/maxresdefault.jpg" alt="Bradford Cohen - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Bradford Cohen - September 2026&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
