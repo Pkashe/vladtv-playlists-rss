@@ -1,0 +1,43 @@
+name: Update VladTV playlist RSS
+
+on:
+  schedule:
+    - cron: '23 1,7,13,19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vladtv-feed
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate RSS feed
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python generate.py
+      - name: Keep scheduled workflow active
+        shell: bash
+        run: |
+          mkdir -p data
+          date -u +'%Y-%m' > data/heartbeat.txt
+      - name: Commit generated feed when changed
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/rss.xml data/playlists.json data/heartbeat.txt
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update playlist RSS feed'
+            git push
+          fi
