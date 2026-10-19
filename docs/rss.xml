@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>VladTV — New Playlists</title>
+    <title>VladTV — New Interviews</title>
     <link>https://www.youtube.com/@vladtv/playlists</link>
-    <description>One RSS entry per newly discovered public VladTV playlist; individual video uploads excluded.</description>
+    <description>One RSS entry per new VladTV interviewee per month. Interview parts and duplicate playlists are excluded.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 21:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 02:17:07 +0000</lastBuildDate>
     <item>
       <title>Memo600 - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLQyfSM34zJto</link>
@@ -13,22 +13,6 @@
       <pubDate>Fri, 16 Oct 2026 21:22:10 +0000</pubDate>
       <media:thumbnail url="https://i.ytimg.com/vi/WLjwcVFanlw/maxresdefault.jpg" />
       <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/WLjwcVFanlw/maxresdefault.jpg" alt="Memo600 - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Memo600 - October 2026&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vlad Tenev - October 2026</title>
-      <link>https://www.youtube.com/playlist?list=PLaU3JRVCyV9I</link>
-      <guid isPermaLink="false">youtube-playlist:PLaU3JRVCyV9I</guid>
-      <pubDate>Fri, 16 Oct 2026 15:33:40 +0000</pubDate>
-      <media:thumbnail url="https://i.ytimg.com/vi/8YYmtZYQ0Aw/maxresdefault.jpg" />
-      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/8YYmtZYQ0Aw/maxresdefault.jpg" alt="Vlad Tenev - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Vlad Tenev - October 2026&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cody Alford - October 2026</title>
-      <link>https://www.youtube.com/playlist?list=PLSZSN2mfuF_k</link>
-      <guid isPermaLink="false">youtube-playlist:PLSZSN2mfuF_k</guid>
-      <pubDate>Fri, 16 Oct 2026 14:07:06 +0000</pubDate>
-      <media:thumbnail url="https://i.ytimg.com/vi/ORHsx5EqZJM/maxresdefault.jpg" />
-      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/ORHsx5EqZJM/maxresdefault.jpg" alt="Cody Alford - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Cody Alford - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vlad Tenev - October 2026</title>
@@ -48,14 +32,6 @@
     </item>
     <item>
       <title>Vincent Marino - October 2026</title>
-      <link>https://www.youtube.com/playlist?list=PLIqvituUcGXY</link>
-      <guid isPermaLink="false">youtube-playlist:PLIqvituUcGXY</guid>
-      <pubDate>Wed, 14 Oct 2026 20:39:14 +0000</pubDate>
-      <media:thumbnail url="https://i.ytimg.com/vi/gKnZIQpWXOc/maxresdefault.jpg" />
-      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/gKnZIQpWXOc/maxresdefault.jpg" alt="Vincent Marino - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Vincent Marino - October 2026&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vincent Marino - October 2026</title>
       <link>https://www.youtube.com/playlist?list=PLfWRjTK_y74o</link>
       <guid isPermaLink="false">youtube-playlist:PLfWRjTK_y74o</guid>
       <pubDate>Tue, 13 Oct 2026 19:04:16 +0000</pubDate>
@@ -69,14 +45,6 @@
       <pubDate>Tue, 13 Oct 2026 14:33:43 +0000</pubDate>
       <media:thumbnail url="https://i.ytimg.com/vi/PgiGoDJvdp0/maxresdefault.jpg" />
       <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/PgiGoDJvdp0/maxresdefault.jpg" alt="Cody Alford October 26" /&gt;&lt;/p&gt;&lt;p&gt;Cody Alford October 26&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nicholas Irving - October 2026</title>
-      <link>https://www.youtube.com/playlist?list=PLHUQQIhNMd0I</link>
-      <guid isPermaLink="false">youtube-playlist:PLHUQQIhNMd0I</guid>
-      <pubDate>Fri, 09 Oct 2026 14:39:49 +0000</pubDate>
-      <media:thumbnail url="https://i.ytimg.com/vi/t1OxW3QAMTA/maxresdefault.jpg" />
-      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/t1OxW3QAMTA/maxresdefault.jpg" alt="Nicholas Irving - October 2026" /&gt;&lt;/p&gt;&lt;p&gt;Nicholas Irving - October 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nicholas Irving - October 2026</title>
@@ -109,14 +77,6 @@
       <pubDate>Mon, 28 Sep 2026 21:09:13 +0000</pubDate>
       <media:thumbnail url="https://i.ytimg.com/vi/ngv3shqEXoM/maxresdefault.jpg" />
       <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/ngv3shqEXoM/maxresdefault.jpg" alt="Rex Holloway - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Rex Holloway - September 2026&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ramon "Mundo" Mendoza  - September 2026</title>
-      <link>https://www.youtube.com/playlist?list=PLOvfR40AUEq4</link>
-      <guid isPermaLink="false">youtube-playlist:PLOvfR40AUEq4</guid>
-      <pubDate>Fri, 25 Sep 2026 19:10:02 +0000</pubDate>
-      <media:thumbnail url="https://i.ytimg.com/vi/ULWuJC3gHjY/maxresdefault.jpg" />
-      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/ULWuJC3gHjY/maxresdefault.jpg" alt="Ramon &amp;quot;Mundo&amp;quot; Mendoza  - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Ramon &amp;quot;Mundo&amp;quot; Mendoza  - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ramon "Mundo" Mendoza - September 2026</title>
@@ -175,14 +135,6 @@
       <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/rRLJVBMJt3I/maxresdefault.jpg" alt="TK Kirkland - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;TK Kirkland - September 2026&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Trap Lore Ross - September 2026</title>
-      <link>https://www.youtube.com/playlist?list=PLQRFHDJPb1gQ</link>
-      <guid isPermaLink="false">youtube-playlist:PLQRFHDJPb1gQ</guid>
-      <pubDate>Tue, 15 Sep 2026 18:28:16 +0000</pubDate>
-      <media:thumbnail url="https://i.ytimg.com/vi/fgzkOWzO-eY/maxresdefault.jpg" />
-      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/fgzkOWzO-eY/maxresdefault.jpg" alt="Trap Lore Ross - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Trap Lore Ross - September 2026&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Trap Lore Ross - September 26</title>
       <link>https://www.youtube.com/playlist?list=PLTfUBNXnrqLc</link>
       <guid isPermaLink="false">youtube-playlist:PLTfUBNXnrqLc</guid>
@@ -229,14 +181,6 @@
       <pubDate>Wed, 09 Sep 2026 19:02:13 +0000</pubDate>
       <media:thumbnail url="https://i.ytimg.com/vi/EfhDHL5_UnU/maxresdefault.jpg" />
       <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/EfhDHL5_UnU/maxresdefault.jpg" alt="Judge Mathis - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Judge Mathis - September 2026&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bradford Cohen - September 2026</title>
-      <link>https://www.youtube.com/playlist?list=PLTdXPFZ5wWWE</link>
-      <guid isPermaLink="false">youtube-playlist:PLTdXPFZ5wWWE</guid>
-      <pubDate>Wed, 09 Sep 2026 15:57:46 +0000</pubDate>
-      <media:thumbnail url="https://i.ytimg.com/vi/K7__iCx2ghE/maxresdefault.jpg" />
-      <description>&lt;p&gt;&lt;img src="https://i.ytimg.com/vi/K7__iCx2ghE/maxresdefault.jpg" alt="Bradford Cohen - September 2026" /&gt;&lt;/p&gt;&lt;p&gt;Bradford Cohen - September 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bradford Cohen - September 2026</title>
